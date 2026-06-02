@@ -10,10 +10,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-31T15:59:08Z",
+            "last_commit": "2026-06-02T04:04:32Z",
             "owner": "NoFxAiOS",
             "repo": "nofx",
-            "stars": 12507
+            "stars": 12510
           }
         },
         {
@@ -26,7 +26,7 @@
             "last_commit": "2026-06-01T02:02:48Z",
             "owner": "TauricResearch",
             "repo": "TradingAgents",
-            "stars": 81341
+            "stars": 81956
           }
         },
         {
@@ -39,7 +39,7 @@
             "last_commit": "2026-05-10T17:01:37Z",
             "owner": "AI4Finance-Foundation",
             "repo": "FinRobot",
-            "stars": 7131
+            "stars": 7137
           }
         },
         {
@@ -65,7 +65,7 @@
             "last_commit": "2026-05-27T19:40:53Z",
             "owner": "chrisworsey55",
             "repo": "atlas-gic",
-            "stars": 1907
+            "stars": 1909
           }
         },
         {
@@ -80,6 +80,19 @@
         },
         {
           "children": [],
+          "description": "Multi-agent finance research workspace for strategy generation, backtests, portfolio analysis, and research insights.",
+          "title": "Vibe-Trading",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T04:52:39Z",
+            "owner": "HKUDS",
+            "repo": "Vibe-Trading",
+            "stars": 9388
+          }
+        },
+        {
+          "children": [],
           "description": "Open prediction market arena where AI agents compete in real-time BTC/ETH/SOL prediction games. Python and Node.js SDKs, 9 live markets, REST + WebSocket APIs.",
           "title": "ProfitPlay Agent Arena",
           "repo_info": {
@@ -89,6 +102,19 @@
             "owner": "jarvismaximum-hue",
             "repo": "profitplay-starter",
             "stars": 8
+          }
+        },
+        {
+          "children": [],
+          "description": "Prediction-market trading agent for Kalshi, Polymarket, and Solana DFlow, with Wang Transform pricing and arbitrage strategies.",
+          "title": "oracle3",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-08T07:48:25Z",
+            "owner": "YichengYang-Ethan",
+            "repo": "oracle3",
+            "stars": 246
           }
         }
       ],
@@ -112,7 +138,7 @@
             "last_commit": "2026-05-28T17:46:58Z",
             "owner": "virattt",
             "repo": "ai-hedge-fund",
-            "stars": 59592
+            "stars": 59665
           }
         },
         {
@@ -148,7 +174,7 @@
             "last_commit": "2025-03-04T16:57:22Z",
             "owner": "The-FinAI",
             "repo": "PIXIU",
-            "stars": 863
+            "stars": 864
           }
         },
         {
@@ -158,10 +184,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-05-11T07:48:37Z",
+            "last_commit": "2026-06-01T15:15:48Z",
             "owner": "AI4Finance-Foundation",
             "repo": "FinGPT",
-            "stars": 20356
+            "stars": 20368
           }
         },
         {
@@ -210,6 +236,51 @@
       "items": [
         {
           "children": [],
+          "description": "Claude Code skill for public SEC EDGAR + market data: , , . MIT.",
+          "title": "XVARY Stock Research",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-23T18:00:31Z",
+            "owner": "xvary-research",
+            "repo": "claude-code-stock-analysis-skill",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "Claude skill for bias detection in investment analysis. Apache 2.0.",
+          "title": "CFA Institute Bias Detection",
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-12T11:28:12Z",
+            "owner": "CFA-Institute-RPC",
+            "repo": "skills",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "Claude skills for investment research, screening, compliance, and marketing workflows.",
+          "title": "Ethical Capital Skills",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-27T13:22:13Z",
+            "owner": "ethicalcapital",
+            "repo": "skills",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Skills"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
           "description": "Quantitative analysis, strategies and backtests",
           "title": "QuantResearch",
           "repo_info": {
@@ -218,7 +289,7 @@
             "last_commit": "2023-08-26T12:16:05Z",
             "owner": "letianzj",
             "repo": "QuantResearch",
-            "stars": 2931
+            "stars": 2933
           }
         },
         {
@@ -235,6 +306,19 @@
           "children": [],
           "description": "Learn Fintech Online.",
           "title": "AI in Finance"
+        },
+        {
+          "children": [],
+          "description": "CFA Institute examples for GenAI-driven investment workflows.",
+          "title": "The Automation Ahead",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-08T15:42:08Z",
+            "owner": "CFA-Institute-RPC",
+            "repo": "The-Automation-Ahead",
+            "stars": 55
+          }
         },
         {
           "children": [],
@@ -334,7 +418,7 @@
             "last_commit": "2025-08-19T04:04:58Z",
             "owner": "borisbanushev",
             "repo": "stockpredictionai",
-            "stars": 5574
+            "stars": 5573
           }
         },
         {
@@ -347,7 +431,7 @@
             "last_commit": "2018-11-29T17:06:12Z",
             "owner": "Ceruleanacg",
             "repo": "Personae",
-            "stars": 1403
+            "stars": 1404
           }
         },
         {
@@ -360,7 +444,7 @@
             "last_commit": "2026-05-02T15:12:44Z",
             "owner": "AI4Finance-Foundation",
             "repo": "FinRL-Trading",
-            "stars": 3239
+            "stars": 3242
           }
         },
         {
@@ -373,7 +457,7 @@
             "last_commit": "2026-05-25T22:29:44Z",
             "owner": "AI4Finance-Foundation",
             "repo": "FinRL",
-            "stars": 15299
+            "stars": 15312
           }
         },
         {
@@ -526,7 +610,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-26T14:12:12Z",
+            "last_commit": "2026-06-02T01:26:30Z",
             "owner": "Nixtla",
             "repo": "mlforecast",
             "stars": 1226
@@ -658,7 +742,7 @@
             "last_commit": "2022-08-27T20:48:46Z",
             "owner": "rorysroes",
             "repo": "SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
-            "stars": 2278
+            "stars": 2279
           }
         },
         {
@@ -690,7 +774,7 @@
             "last_commit": "2025-08-19T04:04:58Z",
             "owner": "borisbanushev",
             "repo": "stockpredictionai",
-            "stars": 5574
+            "stars": 5573
           }
         },
         {
@@ -703,7 +787,7 @@
             "last_commit": "2023-05-23T00:51:23Z",
             "owner": "maxbbraun",
             "repo": "trump2cash",
-            "stars": 6506
+            "stars": 6509
           }
         }
       ],
@@ -845,7 +929,7 @@
             "last_commit": "2024-04-14T13:06:59Z",
             "owner": "je-suis-tm",
             "repo": "quant-trading",
-            "stars": 9975
+            "stars": 9982
           }
         },
         {
@@ -962,7 +1046,7 @@
             "last_commit": "2024-07-07T15:33:11Z",
             "owner": "CryptoSignal",
             "repo": "Crypto-Signal",
-            "stars": 5569
+            "stars": 5568
           }
         },
         {
@@ -1098,7 +1182,7 @@
             "last_commit": "2024-03-13T14:31:20Z",
             "owner": "waditu",
             "repo": "tushare",
-            "stars": 15063
+            "stars": 15068
           }
         },
         {
@@ -1110,6 +1194,24 @@
           "children": [],
           "description": "Stock Market and Financial Data API.",
           "title": "Financial Data"
+        },
+        {
+          "children": [],
+          "description": "MCP server for stock quotes, technical analysis, crypto data, risk metrics, and portfolio analysis. No API keys for core data.",
+          "title": "FinanceKit MCP",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-17T14:12:05Z",
+            "owner": "vdalhambra",
+            "repo": "financekit-mcp",
+            "stars": 4
+          }
+        },
+        {
+          "children": [],
+          "description": "Indian market data API and MCP server for NSE/BSE stocks, financials, screeners, and institutional flows.",
+          "title": "Tapetide"
         },
         {
           "children": [],
@@ -1135,6 +1237,11 @@
           "children": [],
           "description": "AI economy tracking platform. Market cap, funding rounds, AI Bubble Index, company valuations, and compute supply chain data.",
           "title": "BenchGecko"
+        },
+        {
+          "children": [],
+          "description": "SEC EDGAR JSON API with classified 8-Ks, activist 13D/G tagging, ATM offering detection, and hosted MCP access.",
+          "title": "FilingFirehose"
         }
       ],
       "title": "Traditional Markets"
@@ -1226,6 +1333,11 @@
         },
         {
           "children": [],
+          "description": "Agent-ready crypto market intelligence API and MCP server for funding, derivatives, arbitrage, narratives, listings, and news.",
+          "title": "Sharpe"
+        },
+        {
+          "children": [],
           "description": "Solana-based prediction market for human opinions with an agent CLI and AGENTS.md spec for AI agents to authenticate, list opinion campaigns, and place bets via JSON-friendly commands.",
           "title": "TBD Predict",
           "repo_info": {
@@ -1258,7 +1370,7 @@
             "last_commit": "2026-02-19T16:21:00Z",
             "owner": "tensortrade-org",
             "repo": "tensortrade",
-            "stars": 6290
+            "stars": 6291
           }
         },
         {
@@ -1289,7 +1401,7 @@
             "last_commit": "2023-12-23T06:14:58Z",
             "owner": "quantopian",
             "repo": "pyfolio",
-            "stars": 6319
+            "stars": 6320
           }
         },
         {
@@ -1315,7 +1427,7 @@
             "last_commit": "2024-07-26T06:19:42Z",
             "owner": "quantopian",
             "repo": "empyrical",
-            "stars": 1485
+            "stars": 1484
           }
         },
         {
@@ -1328,7 +1440,7 @@
             "last_commit": "2026-04-13T17:47:57Z",
             "owner": "zvtvz",
             "repo": "zvt",
-            "stars": 4153
+            "stars": 4155
           }
         },
         {
@@ -1343,7 +1455,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-05-31T08:50:36Z",
+            "last_commit": "2026-06-01T14:37:24Z",
             "owner": "onestardao",
             "repo": "WFGY",
             "stars": 1752
@@ -1416,10 +1528,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-01T05:44:54Z",
+            "last_commit": "2026-06-02T02:55:08Z",
             "owner": "OpenBB-finance",
             "repo": "OpenBB",
-            "stars": 68358
+            "stars": 68400
           }
         },
         {
@@ -1432,7 +1544,7 @@
             "last_commit": "2024-02-13T08:02:51Z",
             "owner": "quantopian",
             "repo": "zipline",
-            "stars": 19837
+            "stars": 19838
           }
         },
         {
@@ -1450,7 +1562,7 @@
             "last_commit": "2026-05-29T09:48:50Z",
             "owner": "ricequant",
             "repo": "rqalpha",
-            "stars": 6434
+            "stars": 6436
           }
         },
         {
@@ -1463,7 +1575,7 @@
             "last_commit": "2024-08-19T17:47:36Z",
             "owner": "mementum",
             "repo": "backtrader",
-            "stars": 21771
+            "stars": 21791
           }
         },
         {
@@ -1502,7 +1614,7 @@
             "last_commit": "2026-05-29T21:50:25Z",
             "owner": "QuantConnect",
             "repo": "Lean",
-            "stars": 19586
+            "stars": 19626
           }
         }
       ],
@@ -1521,7 +1633,7 @@
             "last_commit": "2022-02-14T16:11:27Z",
             "owner": "DeviaVir",
             "repo": "zenbot",
-            "stars": 8264
+            "stars": 8262
           }
         },
         {
@@ -1547,7 +1659,7 @@
             "last_commit": "2023-03-04T04:08:38Z",
             "owner": "magic8bot",
             "repo": "magic8bot",
-            "stars": 402
+            "stars": 401
           }
         },
         {
@@ -1591,7 +1703,7 @@
             "last_commit": "2026-01-24T09:00:29Z",
             "owner": "bbfamily",
             "repo": "abu",
-            "stars": 17331
+            "stars": 17342
           }
         }
       ],
@@ -1763,7 +1875,7 @@
             "last_commit": "2026-04-08T05:28:20Z",
             "owner": "tensorflow",
             "repo": "playground",
-            "stars": 12925
+            "stars": 12924
           }
         },
         {
@@ -1773,10 +1885,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-06-01T02:31:19Z",
+            "last_commit": "2026-06-01T14:27:20Z",
             "owner": "lutzroeder",
             "repo": "netron",
-            "stars": 33011
+            "stars": 33016
           }
         },
         {
@@ -1789,7 +1901,7 @@
             "last_commit": "2026-05-30T17:53:43Z",
             "owner": "klinecharts",
             "repo": "KLineChart",
-            "stars": 3821
+            "stars": 3824
           }
         }
       ],
@@ -1853,7 +1965,7 @@
             "last_commit": "2023-06-23T11:37:10Z",
             "owner": "nailperry-zd",
             "repo": "The-Economist",
-            "stars": 3840
+            "stars": 3842
           }
         },
         {
@@ -1866,7 +1978,7 @@
             "last_commit": "2018-10-24T13:51:00Z",
             "owner": "wizardforcel",
             "repo": "nyu-mlif-notes",
-            "stars": 106
+            "stars": 105
           }
         },
         {
@@ -1968,7 +2080,7 @@
             "last_commit": "2023-04-16T22:03:47Z",
             "owner": "huseinzol05",
             "repo": "Stock-Prediction-Models",
-            "stars": 9365
+            "stars": 9367
           }
         },
         {
@@ -1981,7 +2093,7 @@
             "last_commit": "2025-01-03T01:27:50Z",
             "owner": "firmai",
             "repo": "financial-machine-learning",
-            "stars": 8577
+            "stars": 8578
           }
         },
         {
@@ -1994,7 +2106,7 @@
             "last_commit": "2025-05-21T20:41:58Z",
             "owner": "grananqvist",
             "repo": "Awesome-Quant-Machine-Learning-Trading",
-            "stars": 3674
+            "stars": 3675
           }
         },
         {
@@ -2004,10 +2116,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-06-01T01:43:26Z",
+            "last_commit": "2026-06-02T01:46:38Z",
             "owner": "wilsonfreitas",
             "repo": "awesome-quant",
-            "stars": 26519
+            "stars": 26542
           }
         },
         {
@@ -2020,7 +2132,7 @@
             "last_commit": "2026-05-26T10:36:59Z",
             "owner": "domokane",
             "repo": "FinancePy",
-            "stars": 2973
+            "stars": 2974
           }
         },
         {
@@ -2043,7 +2155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-01T06:47:04.496Z",
+    "last_updated": "2026-06-02T06:28:43.480Z",
     "original_repository": "georgezouq/awesome-ai-in-finance",
     "source_repository": "v1nvn/enhansome-ai-in-finance",
     "source_repository_description": null,
