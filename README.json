@@ -13,7 +13,7 @@
             "last_commit": "2026-06-05T14:19:49Z",
             "owner": "NoFxAiOS",
             "repo": "nofx",
-            "stars": 12483
+            "stars": 12473
           }
         },
         {
@@ -26,7 +26,7 @@
             "last_commit": "2026-06-01T02:02:48Z",
             "owner": "TauricResearch",
             "repo": "TradingAgents",
-            "stars": 83209
+            "stars": 83677
           }
         },
         {
@@ -39,7 +39,7 @@
             "last_commit": "2026-05-10T17:01:37Z",
             "owner": "AI4Finance-Foundation",
             "repo": "FinRobot",
-            "stars": 7186
+            "stars": 7193
           }
         },
         {
@@ -65,7 +65,7 @@
             "last_commit": "2026-05-27T19:40:53Z",
             "owner": "chrisworsey55",
             "repo": "atlas-gic",
-            "stars": 1930
+            "stars": 1933
           }
         },
         {
@@ -85,10 +85,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-05T13:53:01Z",
+            "last_commit": "2026-06-06T17:08:55Z",
             "owner": "HKUDS",
             "repo": "Vibe-Trading",
-            "stars": 10883
+            "stars": 11022
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-05-28T17:46:58Z",
             "owner": "virattt",
             "repo": "ai-hedge-fund",
-            "stars": 59826
+            "stars": 59855
           }
         },
         {
@@ -187,7 +187,7 @@
             "last_commit": "2026-06-01T15:15:48Z",
             "owner": "AI4Finance-Foundation",
             "repo": "FinGPT",
-            "stars": 20412
+            "stars": 20422
           }
         },
         {
@@ -215,7 +215,7 @@
             "last_commit": "2024-12-09T14:55:28Z",
             "owner": "iusztinpaul",
             "repo": "hands-on-llms",
-            "stars": 3416
+            "stars": 3418
           }
         },
         {
@@ -289,7 +289,7 @@
             "last_commit": "2023-08-26T12:16:05Z",
             "owner": "letianzj",
             "repo": "QuantResearch",
-            "stars": 2934
+            "stars": 2936
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2020-11-29T20:13:00Z",
             "owner": "Rachnog",
             "repo": "Advanced-Deep-Trading",
-            "stars": 568
+            "stars": 569
           }
         },
         {
@@ -418,7 +418,7 @@
             "last_commit": "2025-08-19T04:04:58Z",
             "owner": "borisbanushev",
             "repo": "stockpredictionai",
-            "stars": 5572
+            "stars": 5571
           }
         },
         {
@@ -444,7 +444,7 @@
             "last_commit": "2026-05-02T15:12:44Z",
             "owner": "AI4Finance-Foundation",
             "repo": "FinRL-Trading",
-            "stars": 3255
+            "stars": 3261
           }
         },
         {
@@ -457,7 +457,7 @@
             "last_commit": "2026-05-25T22:29:44Z",
             "owner": "AI4Finance-Foundation",
             "repo": "FinRL",
-            "stars": 15357
+            "stars": 15368
           }
         },
         {
@@ -548,7 +548,7 @@
             "last_commit": "2018-02-26T23:31:29Z",
             "owner": "hackthemarket",
             "repo": "gym-trading",
-            "stars": 713
+            "stars": 712
           }
         },
         {
@@ -613,7 +613,7 @@
             "last_commit": "2026-06-04T22:32:28Z",
             "owner": "Nixtla",
             "repo": "mlforecast",
-            "stars": 1226
+            "stars": 1227
           }
         },
         {
@@ -710,7 +710,7 @@
             "last_commit": "2026-05-29T11:32:41Z",
             "owner": "skfolio",
             "repo": "skfolio",
-            "stars": 2016
+            "stars": 2020
           }
         }
       ],
@@ -729,7 +729,7 @@
             "last_commit": "2025-05-29T13:24:00Z",
             "owner": "jamesmawm",
             "repo": "High-Frequency-Trading-Model-with-IB",
-            "stars": 2870
+            "stars": 2872
           }
         },
         {
@@ -742,7 +742,7 @@
             "last_commit": "2022-08-27T20:48:46Z",
             "owner": "rorysroes",
             "repo": "SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
-            "stars": 2284
+            "stars": 2285
           }
         },
         {
@@ -774,7 +774,7 @@
             "last_commit": "2025-08-19T04:04:58Z",
             "owner": "borisbanushev",
             "repo": "stockpredictionai",
-            "stars": 5572
+            "stars": 5571
           }
         },
         {
@@ -787,7 +787,7 @@
             "last_commit": "2023-05-23T00:51:23Z",
             "owner": "maxbbraun",
             "repo": "trump2cash",
-            "stars": 6512
+            "stars": 6513
           }
         }
       ],
@@ -929,7 +929,7 @@
             "last_commit": "2024-04-14T13:06:59Z",
             "owner": "je-suis-tm",
             "repo": "quant-trading",
-            "stars": 10013
+            "stars": 10030
           }
         },
         {
@@ -1046,7 +1046,7 @@
             "last_commit": "2024-07-07T15:33:11Z",
             "owner": "CryptoSignal",
             "repo": "Crypto-Signal",
-            "stars": 5570
+            "stars": 5572
           }
         },
         {
@@ -1169,7 +1169,7 @@
             "last_commit": "2023-12-25T18:19:29Z",
             "owner": "yahoo-finance",
             "repo": "yahoo-finance",
-            "stars": 1436
+            "stars": 1437
           }
         },
         {
@@ -1182,7 +1182,7 @@
             "last_commit": "2024-03-13T14:31:20Z",
             "owner": "waditu",
             "repo": "tushare",
-            "stars": 15090
+            "stars": 15093
           }
         },
         {
@@ -1328,7 +1328,7 @@
             "last_commit": "2026-05-21T04:04:33Z",
             "owner": "Bortlesboat",
             "repo": "bitcoin-api",
-            "stars": 2
+            "stars": 3
           }
         },
         {
@@ -1370,7 +1370,7 @@
             "last_commit": "2026-02-19T16:21:00Z",
             "owner": "tensortrade-org",
             "repo": "tensortrade",
-            "stars": 6299
+            "stars": 6304
           }
         },
         {
@@ -1401,7 +1401,7 @@
             "last_commit": "2023-12-23T06:14:58Z",
             "owner": "quantopian",
             "repo": "pyfolio",
-            "stars": 6323
+            "stars": 6325
           }
         },
         {
@@ -1414,7 +1414,7 @@
             "last_commit": "2024-02-12T06:44:22Z",
             "owner": "quantopian",
             "repo": "alphalens",
-            "stars": 4297
+            "stars": 4299
           }
         },
         {
@@ -1440,7 +1440,7 @@
             "last_commit": "2026-04-13T17:47:57Z",
             "owner": "zvtvz",
             "repo": "zvt",
-            "stars": 4158
+            "stars": 4160
           }
         },
         {
@@ -1460,7 +1460,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-06-05T09:56:51Z",
+            "last_commit": "2026-06-06T08:37:13Z",
             "owner": "onestardao",
             "repo": "WFGY",
             "stars": 1752
@@ -1533,10 +1533,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-05T19:33:32Z",
+            "last_commit": "2026-06-07T03:30:17Z",
             "owner": "OpenBB-finance",
             "repo": "OpenBB",
-            "stars": 68662
+            "stars": 68709
           }
         },
         {
@@ -1549,7 +1549,7 @@
             "last_commit": "2024-02-13T08:02:51Z",
             "owner": "quantopian",
             "repo": "zipline",
-            "stars": 19846
+            "stars": 19847
           }
         },
         {
@@ -1567,7 +1567,7 @@
             "last_commit": "2026-06-05T07:41:48Z",
             "owner": "ricequant",
             "repo": "rqalpha",
-            "stars": 6445
+            "stars": 6452
           }
         },
         {
@@ -1580,7 +1580,7 @@
             "last_commit": "2024-08-19T17:47:36Z",
             "owner": "mementum",
             "repo": "backtrader",
-            "stars": 21847
+            "stars": 21864
           }
         },
         {
@@ -1619,7 +1619,7 @@
             "last_commit": "2026-06-04T20:45:43Z",
             "owner": "QuantConnect",
             "repo": "Lean",
-            "stars": 19732
+            "stars": 19746
           }
         }
       ],
@@ -1638,7 +1638,7 @@
             "last_commit": "2022-02-14T16:11:27Z",
             "owner": "DeviaVir",
             "repo": "zenbot",
-            "stars": 8261
+            "stars": 8262
           }
         },
         {
@@ -1708,7 +1708,7 @@
             "last_commit": "2026-01-24T09:00:29Z",
             "owner": "bbfamily",
             "repo": "abu",
-            "stars": 17386
+            "stars": 17397
           }
         }
       ],
@@ -1906,7 +1906,7 @@
             "last_commit": "2026-06-03T15:27:01Z",
             "owner": "klinecharts",
             "repo": "KLineChart",
-            "stars": 3839
+            "stars": 3840
           }
         }
       ],
@@ -1925,7 +1925,7 @@
             "last_commit": "2024-02-11T11:53:21Z",
             "owner": "Yvictor",
             "repo": "TradingGym",
-            "stars": 1878
+            "stars": 1879
           }
         },
         {
@@ -1970,7 +1970,7 @@
             "last_commit": "2023-06-23T11:37:10Z",
             "owner": "nailperry-zd",
             "repo": "The-Economist",
-            "stars": 3847
+            "stars": 3850
           }
         },
         {
@@ -2085,7 +2085,7 @@
             "last_commit": "2023-04-16T22:03:47Z",
             "owner": "huseinzol05",
             "repo": "Stock-Prediction-Models",
-            "stars": 9372
+            "stars": 9373
           }
         },
         {
@@ -2098,7 +2098,7 @@
             "last_commit": "2025-01-03T01:27:50Z",
             "owner": "firmai",
             "repo": "financial-machine-learning",
-            "stars": 8592
+            "stars": 8613
           }
         },
         {
@@ -2111,7 +2111,7 @@
             "last_commit": "2025-05-21T20:41:58Z",
             "owner": "grananqvist",
             "repo": "Awesome-Quant-Machine-Learning-Trading",
-            "stars": 3679
+            "stars": 3680
           }
         },
         {
@@ -2121,10 +2121,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-06-06T01:36:40Z",
+            "last_commit": "2026-06-07T01:41:22Z",
             "owner": "wilsonfreitas",
             "repo": "awesome-quant",
-            "stars": 26590
+            "stars": 26631
           }
         },
         {
@@ -2137,7 +2137,7 @@
             "last_commit": "2026-05-26T10:36:59Z",
             "owner": "domokane",
             "repo": "FinancePy",
-            "stars": 2979
+            "stars": 2982
           }
         },
         {
@@ -2160,7 +2160,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-06T05:48:08.361Z",
+    "last_updated": "2026-06-07T06:15:54.093Z",
     "original_repository": "georgezouq/awesome-ai-in-finance",
     "source_repository": "v1nvn/enhansome-ai-in-finance",
     "source_repository_description": null,
